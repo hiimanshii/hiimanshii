@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJjNXExOXI1bGVxbWo1c3ZyNm8yaDh1bnNlNDY5bDRmenZxdTRnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/200.webp)](https://hiimanshii.github.io/Portfolio/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)](https://hiimanshii.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Himanshi Gupta</h1>
 
 <h3 align="center">A passionate Software Development Engineer from India</h3>
