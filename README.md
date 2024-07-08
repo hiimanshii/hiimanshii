@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h5><strong>Note:</strong>Top languages are just a metric for the languages in my public code; it does not indicate experience or skill level.</h5>
+<h5><h4>Note:</h4>Top languages are just a metric for the languages in my public code, it does not indicate experience or skill level.</h5>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
