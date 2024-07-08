@@ -11,6 +11,7 @@
 
 ## Connect with me:
 <p align="left">
+<a href="https://twitter.com/hiimanshii444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiimanshii444" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshi-gupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi-gupta-" height="30" width="40" /></a>
 <a href="https://instagram.com/hiimanshii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiimanshii._" height="30" width="40" /></a>
 </p>
