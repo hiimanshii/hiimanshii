@@ -1,6 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimanshii&label=Profile%20views&color=0e75b6&style=flat" alt="hiimanshii" /> </p>
 [![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJjNXExOXI1bGVxbWo1c3ZyNm8yaDh1bnNlNDY5bDRmenZxdTRnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/200.webp)](https://hiimanshii.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Himanshi Gupta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimanshii&label=Profile%20views&color=0e75b6&style=flat" alt="hiimanshii" /> </p>
+
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://hiimanshii.github.io/Portfolio/](https://hiimanshii.github.io/Portfolio/)
