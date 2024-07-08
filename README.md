@@ -29,8 +29,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshii&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117)
 
 <h5><h4>Note:</h4>Top languages are just a metric for the languages in my public code, it does not indicate experience or skill level.</h5>
 
