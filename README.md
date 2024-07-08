@@ -1,7 +1,7 @@
 <div align="center">
 fgh
   <a href="https://hiimanshii.github.io/Portfolio/">
-    <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif](https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" alt="MasterHead" style="max-width:100%; width:auto; height:auto;">
+    <img src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="MasterHead" style="max-width:100%; width:auto; height:auto;">
   </a>
 </div>
 
