@@ -1,4 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)](https://hiimanshii.github.io/Portfolio/)
+<div align="center">
+  <a href="https://hiimanshii.github.io/Portfolio/">
+    <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" alt="MasterHead" style="max-width:100%; width:auto; height:auto;">
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Himanshi Gupta</h1>
 
 <h3 align="center">A passionate Software Development Engineer from India</h3>
